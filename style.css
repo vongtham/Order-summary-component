@@ -71,10 +71,11 @@ p {
     margin: 1.5rem 0;
 }
 
-h4 {
+h2 {
     flex-grow: 1;
     color: var(--dark-blue);
     font-weight: 800;
+    font-size: 1rem;
 }
 
 .box-plan > img {
